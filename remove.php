@@ -7,7 +7,7 @@ Hacked By Leviathan Perfect Hunter
 </head>
 <link href='http://fonts.googleapis.com/css?family=Iceland' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
-<link href="https://i.ibb.co/NKrs4qM/Pics-Art-03-23-11-55-22.png" rel="shortcut icon" />
+<link href="https://i.ibb.co/WB0xYnP/13dc9d0b1d8980a1ff86180091c42363.jpg" rel="shortcut icon" />
 
 </p>
 <body dir="ltr" alink="#0033FF" background="" bgcolor="#000000" link="grey" text="grey" vlink="#FF0000">
@@ -16,14 +16,14 @@ Hacked By Leviathan Perfect Hunter
 <font size="5">
 <br><br><br><br><center>
 <h2>
-<table><tr><td><img src="https://i.ibb.co/jJKv0Km/Pics-Art-03-05-07-36-01.png" widht="350" height="350"></td><td>
+<table><tr><td><img src="https://i.ibb.co/WB0xYnP/13dc9d0b1d8980a1ff86180091c42363.jpg" widht="350" height="350"></td><td>
 <font face="Iceland" size="6" color="red">Hacked By Leviathan<center></center></h2><h6></font><span style="syntax">
 <font face="Audiowide" size="3" color="grey">
 Team :<br>
 - Ganest Seven<br>
-_Leviathan Perfect Hunter
+-Leviathan Perfect Hunter
 <font face="Audiowide" size="3" color="dodgerblue">Data Nickname :<br>
-<font face="Audiowide" size="3" color="grey">ALL DEMON<br>
+<font face="Audiowide" size="3" color="grey">Leviathan<br>
 
 </h6></font><br></td></tr></table>
 <br>
